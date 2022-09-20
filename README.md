@@ -1,2 +1,2 @@
 # Tic-Tak-Toe
-A simple Buildup With Numpy
+A simple Game Buildup With Numpy
